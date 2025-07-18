@@ -1,0 +1,10 @@
+1.positiv
+2.negativ
+3.neutral
+4.negativ
+5.neutral
+6.positiv
+7.positiv
+8.negativ
+9.positiv
+10.positiv

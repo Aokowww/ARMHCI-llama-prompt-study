@@ -1,0 +1,161 @@
+prompt_id,prompt,shot,format,gpt_output
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,0,text,negative
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,0,markdown,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,0,yaml,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,0,json,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,1,text,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,1,markdown,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,1,yaml,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,1,json,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,3,text,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,3,markdown,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,3,yaml,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,3,json,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,5,text,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,5,markdown,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,5,yaml,positive
+1,it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere .,5,json,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,0,text,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,0,markdown,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,0,yaml,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,0,json,positive
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,1,text,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,1,markdown,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,1,yaml,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,1,json,positive
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,3,text,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,3,markdown,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,3,yaml,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,3,json,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,5,text,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,5,markdown,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,5,yaml,negative
+2,the movie fails to portray its literally talented and notorious subject as anything much more than a dirty old man .,5,json,negative
+3,the best part about " gangs " was daniel day-lewis .,0,text,negative
+3,the best part about " gangs " was daniel day-lewis .,0,markdown,positive
+3,the best part about " gangs " was daniel day-lewis .,0,yaml,positive
+3,the best part about " gangs " was daniel day-lewis .,0,json,positive
+3,the best part about " gangs " was daniel day-lewis .,1,text,negative
+3,the best part about " gangs " was daniel day-lewis .,1,markdown,negative
+3,the best part about " gangs " was daniel day-lewis .,1,yaml,negative
+3,the best part about " gangs " was daniel day-lewis .,1,json,negative
+3,the best part about " gangs " was daniel day-lewis .,3,text,negative
+3,the best part about " gangs " was daniel day-lewis .,3,markdown,positive
+3,the best part about " gangs " was daniel day-lewis .,3,yaml,negative
+3,the best part about " gangs " was daniel day-lewis .,3,json,positive
+3,the best part about " gangs " was daniel day-lewis .,5,text,positive
+3,the best part about " gangs " was daniel day-lewis .,5,markdown,positive
+3,the best part about " gangs " was daniel day-lewis .,5,yaml,negative
+3,the best part about " gangs " was daniel day-lewis .,5,json,positive
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",0,text,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",0,markdown,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",0,yaml,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",0,json,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",1,text,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",1,markdown,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",1,yaml,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",1,json,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",3,text,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",3,markdown,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",3,yaml,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",3,json,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",5,text,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",5,markdown,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",5,yaml,negative
+4,"I don't think I laughed out loud once . and when you're talking about a slapstick comedy , that's a pretty big problem .",5,json,negative
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",0,text,positive
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",0,markdown,neutral
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",0,yaml,neutral
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",0,json,neutral
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",1,text,neutral
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",1,markdown,positive
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",1,yaml,neutral
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",1,json,positive
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",3,text,positive
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",3,markdown,neutral
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",3,yaml,negative
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",3,json,neutral
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",5,text,neutral
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",5,markdown,neutral
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",5,yaml,positive
+5,"it's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",5,json,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,0,text,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,0,markdown,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,0,yaml,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,0,json,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,1,text,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,1,markdown,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,1,yaml,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,1,json,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,3,text,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,3,markdown,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,3,yaml,unknown
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,3,json,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,5,text,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,5,markdown,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,5,yaml,positive
+6,It does exactly what is says.  Can't get any better than that!  Nice to be able to watch movies on the big screen as opposed to my little Nook screen!,5,json,positive
+7,This product has been working well still and I would definitely purchase from them again.,0,text,positive
+7,This product has been working well still and I would definitely purchase from them again.,0,markdown,positive
+7,This product has been working well still and I would definitely purchase from them again.,0,yaml,positive
+7,This product has been working well still and I would definitely purchase from them again.,0,json,positive
+7,This product has been working well still and I would definitely purchase from them again.,1,text,positive
+7,This product has been working well still and I would definitely purchase from them again.,1,markdown,positive
+7,This product has been working well still and I would definitely purchase from them again.,1,yaml,positive
+7,This product has been working well still and I would definitely purchase from them again.,1,json,positive
+7,This product has been working well still and I would definitely purchase from them again.,3,text,positive
+7,This product has been working well still and I would definitely purchase from them again.,3,markdown,positive
+7,This product has been working well still and I would definitely purchase from them again.,3,yaml,positive
+7,This product has been working well still and I would definitely purchase from them again.,3,json,positive
+7,This product has been working well still and I would definitely purchase from them again.,5,text,positive
+7,This product has been working well still and I would definitely purchase from them again.,5,markdown,positive
+7,This product has been working well still and I would definitely purchase from them again.,5,yaml,positive
+7,This product has been working well still and I would definitely purchase from them again.,5,json,positive
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",0,text,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",0,markdown,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",0,yaml,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",0,json,unknown
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",1,text,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",1,markdown,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",1,yaml,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",1,json,positive
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",3,text,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",3,markdown,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",3,yaml,unknown
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",3,json,positive
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",5,text,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",5,markdown,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",5,yaml,negative
+8,"These cannot work either of them, so I have to pull out the remote for that one setting.  I don't know why they give you multiple code methods but no learning.",5,json,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",0,text,neutral
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",0,markdown,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",0,yaml,neutral
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",0,json,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",1,text,neutral
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",1,markdown,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",1,yaml,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",1,json,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",3,text,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",3,markdown,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",3,yaml,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",3,json,neutral
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",5,text,neutral
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",5,markdown,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",5,yaml,negative
+9,"Would love to give it 5 stars, but the ONE and only thing missing from this is that the charging indicator light doesn't work.",5,json,negative
+10,Looks better on line than the actual camera photo album - Still nice!,0,text,positive
+10,Looks better on line than the actual camera photo album - Still nice!,0,markdown,positive
+10,Looks better on line than the actual camera photo album - Still nice!,0,yaml,positive
+10,Looks better on line than the actual camera photo album - Still nice!,0,json,positive
+10,Looks better on line than the actual camera photo album - Still nice!,1,text,positive
+10,Looks better on line than the actual camera photo album - Still nice!,1,markdown,positive
+10,Looks better on line than the actual camera photo album - Still nice!,1,yaml,positive
+10,Looks better on line than the actual camera photo album - Still nice!,1,json,negative
+10,Looks better on line than the actual camera photo album - Still nice!,3,text,positive
+10,Looks better on line than the actual camera photo album - Still nice!,3,markdown,positive
+10,Looks better on line than the actual camera photo album - Still nice!,3,yaml,positive
+10,Looks better on line than the actual camera photo album - Still nice!,3,json,positive
+10,Looks better on line than the actual camera photo album - Still nice!,5,text,positive
+10,Looks better on line than the actual camera photo album - Still nice!,5,markdown,positive
+10,Looks better on line than the actual camera photo album - Still nice!,5,yaml,positive
+10,Looks better on line than the actual camera photo album - Still nice!,5,json,positive
