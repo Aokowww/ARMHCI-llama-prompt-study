@@ -1,8 +1,8 @@
 1.positiv
 2.negativ
-3.neutral
+3.neutral, positiv
 4.negativ
-5.neutral
+5.neutral, positiv
 6.positiv
 7.positiv
 8.negativ
